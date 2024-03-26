@@ -2,9 +2,9 @@
 
 Hi there Tailwind Labs Team,
 
-I’m Sherif Saleh, reaching out from Zurich with a keen interest in the Design Engineer role you’ve posted. My background spans over 16 years in UX/UI design, with a notable stint at Neue Zürcher Zeitung—regarded as Switzerland's answer to the New York Times.
+I’m Sherif Saleh, reaching out from surprisingly sunny Zurich with a keen interest in the Design Engineer role you’ve posted. With over 16 years of experience in UX/UI design, including a significant tenure at Neue Zürcher Zeitung—a publication often compared to the New York Times—I bring a wealth of knowledge and insight. 
 
-My entrepreneurial side led me to create Craftingemails.com, where we harness Tailwind CSS to revolutionize email design, making it more user-friendly. This venture, in collaboration with Cosmin from the Maizzle framework, has given me a deep appreciation for the flexibility and power of Tailwind CSS, which I’m eager to bring to your team.
+My entrepreneurial journey led to the founding of craftingemails.com, where, alongside Cosmin from the Maizzle framework, we've revolutionized email design using Tailwind CSS to enhance user-friendliness. This collaboration has deepened my appreciation for the versatility and robustness of Tailwind CSS, skills  I'm excited to contribute to your team.
 
 My approach to design is deeply rooted in the belief that good design is functional and accessible, a philosophy that aligns with the ethos at Tailwind Labs. I’m particularly drawn to the opportunity to work on projects that blend design with cutting-edge technology, and I’m excited about the prospect of contributing to Tailwind CSS’s evolution.
 
