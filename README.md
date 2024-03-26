@@ -13,4 +13,5 @@ The opportunity to join Tailwind Labs, a leading framework known for its innovat
 I look forward to possibly joining Tailwind Labs and bringing my blend of design insight, technical skill, and passion for innovation to the team. Thank you for considering my application.
 
 Best regards,
+
 Sherif Saleh
